@@ -1,1 +1,1 @@
-Just some random Machine Learning projects im douing on the side
+Just some random Machine Learning projects im doing on the side
